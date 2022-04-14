@@ -1,0 +1,22 @@
+* {
+  font-family: Calibri, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+}
+
+p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
